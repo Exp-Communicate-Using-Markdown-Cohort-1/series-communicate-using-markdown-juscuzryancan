@@ -5,3 +5,7 @@
 ```
 console.log("Hello World")
 ```
+
+- [ ] Become Rich
+- [ ] Be able to model a neural network and machine learn anything to create and model anything into AI
+- [ ] Become Famous
